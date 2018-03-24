@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GO练习（一）'
-date: 2018-03-24
+date: 2018-03-24 12:05:08
 categories: 技术
 tags: GO
 ---
