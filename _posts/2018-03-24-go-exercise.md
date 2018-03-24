@@ -13,18 +13,15 @@ You may assume that each input would have exactly one solution, and you may not 
 
 ## 代码
 
-```
+```GO
 package main
-
 import (
 	"fmt"
 )
-
 func main() {
 	nums := []int{2, 7, 11, 15}
 	fmt.Println(twoSum(nums, 9))
 }
-
 func twoSum(nums []int, target int) []int {
 	arr := []int{}
 	container := make(map[int]int)
