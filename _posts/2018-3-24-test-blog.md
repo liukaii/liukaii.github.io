@@ -4,7 +4,7 @@ title: 博客初测试
 subtitle: 凯凯
 date: 2018-3-24
 categories: 测试
-tags: docker
+tags: 生活 docker kubernetes
 ---
 
 这是凯凯博客的第一天
